@@ -1,0 +1,9 @@
+# add file to ignore to this file
+
+
+venv/
+*__pycache__
+*__init__.py
+.hypothesis/
+.coverage
+/boring_python.egg-info/
