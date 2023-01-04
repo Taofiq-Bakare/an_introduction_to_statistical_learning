@@ -20,7 +20,7 @@ install-prod: get-requirements install
 install-dev: get-requirements
 	python -m pip install -r requirements/dev_requirements.txt
 
-install-all: get-requirements install-dev install-prod
+install-all: install get-requirements install-dev install-prod
 
 # use the coverage module to run the test
 # and display the report of the coverage

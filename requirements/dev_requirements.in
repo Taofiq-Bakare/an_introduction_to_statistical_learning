@@ -11,7 +11,8 @@ interrogate
 ## help with auto-documentation
 sphinx
 
-# testing
+# code experimentation
+jupyter
 ipython
 ## checks for test coverage
 coverage
